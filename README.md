@@ -4,7 +4,7 @@
 </h3>
 
 <p>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20developer;And%20UX/UI%20designer&font=Fira%20Code&width=440&height=45&color=375BA9e&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20developer;And%20UX/UI%20designer&font=Fira%20Code&width=440&height=45&color=F7901E&size=22"></a>
 </p> 
 
 ## 🚀 About Me
